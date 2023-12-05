@@ -1,4 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Vairgo
+
+Travel! Memories, excitement, adventure, relaxation, beatiful views: all through the eyes of a fellow explorer. Whether you're looking for a hiking spot with unrealistic views, a hidden beaut to put your feet up and soak in some sun or discover new untold cultures, this is your guide. Follow me as i vlog. 
 
 Welcome,
 
