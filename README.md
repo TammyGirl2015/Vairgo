@@ -1,6 +1,6 @@
 # Vairgo
 
-Travel! Memories, excitement, adventure, relaxation, beatiful views: all through the eyes of a fellow explorer. Whether you're looking for a hiking spot with unrealistic views, a hidden beaut to put your feet up and soak in some sun or discover new untold cultures, this is your guide. Follow me as i vlog. 
+This website is a vlog designed to capture the interest of those with a love of travel, nature, adventure, exploration at their core! It provides a look into real life experiences as i share hidden gems, unexplored cultures and amazing foods with those that are ready for the next adventure. This website will provide information on costs involved and recommendations for top attractions. This website will appeal to anyone who has a love for travel, appreciates nature, amazing views and most of all: MAKING MEMORIES! 
 
 Welcome,
 
