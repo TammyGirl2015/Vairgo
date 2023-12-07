@@ -1,4 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Vairgo
+
+This website is a vlog designed to capture the interest of those with a love of travel, nature, adventure, exploration at their core! It provides a look into real life experiences as i share hidden gems, unexplored cultures and amazing foods with those that are ready for the next adventure. This website will provide information on costs involved and recommendations for top attractions. This website will appeal to anyone who has a love for travel, appreciates nature, amazing views and most of all: MAKING MEMORIES! 
 
 Welcome,
 
