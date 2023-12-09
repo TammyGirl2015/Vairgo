@@ -84,10 +84,16 @@ nav {
 
 /* Main Content */
 main {
-    background-color: blue;
     /* Make Main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 40px;
+}
+
+/* Hero section styles */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-photo-189349.webp) no-repeat center center/cover;
 }
 
 /* Footer */
@@ -142,8 +148,8 @@ main {
 } 
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width 992px) {
-    #menu a:hover{
+@media screen and (min-width:792px) {
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
 }
