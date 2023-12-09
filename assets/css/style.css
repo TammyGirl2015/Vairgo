@@ -120,6 +120,9 @@ main {
     color: #000000;
 }
 
+#info-images {
+    background-image: url(../images/pexels-photo-2990971.jpeg);
+}
 /* Footer */
 #social-networks {
     text-align: center;
