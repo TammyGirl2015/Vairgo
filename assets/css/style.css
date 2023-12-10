@@ -88,6 +88,10 @@ nav {
     font-size: 2rem;
 }
 
+#flights-nav {
+    display: block;
+}
+
 /* Main Content */
 main {
     /* Make Main element take up any surplus space to push footer down */
