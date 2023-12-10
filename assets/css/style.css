@@ -122,10 +122,15 @@ main {
 
 #provide {
     background-color: rgba(146, 91, 45, 0.238);
+    font-size: 130%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 #info {
-    background-color: rgba(146, 91, 45, 0.238);
+background-color: rgba(146, 91, 45, 0.238);
+font-size: 100%;
 }
 
 #flights-image {
@@ -257,6 +262,10 @@ main {
         right: 50px;
     }
 
+    #provide {
+        text-align: center;
+    }
+
     #flights>p {
     display: flex;
     flex-direction: row-reverse;
@@ -299,12 +308,13 @@ main {
         #flights {
             display: flex;
             flex-direction: row;
-            width: 100%;
+            width: 90%;
             justify-content: space-around;
+            padding: 50px;
         }
     
         #flights>h3 {
-            font-size: 170%;
+            font-size: 150%;
         }
     
         #flights>p {
@@ -312,7 +322,15 @@ main {
             flex-direction: column;
             width: 30%;
             text-align: left;
-            font-size: 150%;
+            font-size: 130%;
+        }
+
+        #flights-image {
+            height: 20vw;
+            width: 20vw;
+            margin-bottom: 70px;
+            max-width: 500px;
+            max-height: 500px;
         }
 
                 #accommodation {
@@ -323,7 +341,7 @@ main {
                 }
         
                 #accommodation>h3 {
-                    font-size: 170%;
+                    font-size: 150%;
                 }
         
                 #accommodation>p {
@@ -331,7 +349,15 @@ main {
                     flex-direction: column;
                     width: 30%;
                     text-align: left;
-                    font-size: 150%;
+                    font-size: 130%;
+                }
+
+                #accommodation-image {
+                height: 20vw;
+                width: 20vw;
+                margin-bottom: 70px;
+                max-width: 500px;
+                max-height: 500px;
                 }
 
     #recommendations {
@@ -342,7 +368,7 @@ main {
     }
 
     #recommendations> h3 {
-        font-size: 170%;
+        font-size: 150%;
     }
 
     #recommendations> p {
@@ -350,7 +376,15 @@ main {
     flex-direction: column;
     width: 30%;
     text-align: left;
-    font-size: 150%;
+    font-size: 130%;
     }
+
+        #recommendations-image {
+            height: 20vw;
+            width: 20vw;
+            margin-bottom: 70px;
+            max-width: 500px;
+            max-height: 500px;
+        }
 
 }
