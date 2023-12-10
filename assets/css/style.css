@@ -210,6 +210,37 @@ font-size: 100%;
     align-items: center;
 }
 
+/* Continents Section */
+#continents {
+    background: url(../images/pexels-photo-335393.jpeg) no-repeat center/ cover;
+    /* Makes continents section responsive without changing media queries */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#sevencontinents div{
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    /* padding: 15px; */
+    /* text-align: center; */
+    /* flex-basis: 200px; */
+    /* flex-grow: 1; */
+}
+#continents h3 {
+    color: #fafafa;
+    /* padding: 15px; */
+    /* text-align: center; */
+    /*flex-basis: 200px; */
+        /* flex-grow: 1; */
+}
+/*#continents h2 {
+    color: #fafafa;
+    padding: 15px;
+    text-align: center;
+    flex-basis: 200px;
+        flex-grow: 1;
+}*/
+
 /* Footer */
 #social-networks {
     text-align: center;
