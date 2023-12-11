@@ -233,13 +233,13 @@ font-size: 100%;
     /*flex-basis: 200px; */
         /* flex-grow: 1; */
 }
-/*#continents h2 {
+#continents h2 {
     color: #fafafa;
     padding: 15px;
     text-align: center;
     flex-basis: 200px;
-        flex-grow: 1;
-}*/
+    flex-grow: 1;
+}
 
 /* Gallery page */
 #photos img {
@@ -257,6 +257,14 @@ font-size: 100%;
     color: #252525;
     background-color: rgba(146, 91, 45, 0.238) ;
     padding: 20px;
+}
+
+#discovermore {
+    background-image: url("../images/signup-image.webp");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 
 /* Footer */
