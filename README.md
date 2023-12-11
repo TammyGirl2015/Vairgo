@@ -1,41 +1,67 @@
 # Vairgo
+ is a travel blog that highlights the travels of a young woman, who mostly travels solo. It is a website designed to pique the interest of anyone with a desire to explore, discover and make memories! This site serves to immerse the audience in the experience, so they are excited about making such memories themselves.
+What makes this website stand out is the extra information that is provided: eateries, hidden gems and even hook-ups with local tour guides, all to help the user feel confident about travelling, even solo, to a foreign destination.
 
-This website is a vlog designed to capture the interest of those with a love of travel, nature, adventure, exploration at their core! It provides a look into real life experiences as i share hidden gems, unexplored cultures and amazing foods with those that are ready for the next adventure. This website will provide information on costs involved and recommendations for top attractions. This website will appeal to anyone who has a love for travel, appreciates nature, amazing views and most of all: MAKING MEMORIES! 
+*INSERT PICTURE*
 
-Welcome,
+## EATURES
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+### HOME PAGE:
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+#### NAVIGATION BAR
+-The top left corner shows the page name: Vairgo Travel.
+-The top right-hand corner has the Home, Gallery, Discover More navigation links which link to different pages on the website.
+-The Blog name is easily visible and is set to contrast the background color.
+-The navigation section has a contrasting background color as well as this makes it easy to choose the links to the different pages.
+-The navigation section is responsive to the different screen sizes and only shows as an icon on mobile screens.
 
-## Codeanywhere Reminders
+#### HEADER
+-The header shows the name of the blog and is set in color contrast to it’s background.
+-The page name indicates that this blog is about travel.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+#### IMAGE
+The image was chosen for it’s warm colors and provides warmth to the page. The background colors also add to the warmth of the page and are also a demonstration of my aesthetic. Users will get a feel of who I am, who it is they are following as they discover my website.
 
-`python3 -m http.server`
+#### COVER TEXT
+The cover text provides at-a-glance information about the blog.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+#### INFORMATION
+-The information section provides information on flights, accommodation, and recommendations.
+-Users will appreciate this information as they get to compile details for their travel plans like what days are best to book inexpensive tickets, ideas on accommodation and a tentative price range and my top recommendations for holiday destinations for a variety of activities.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+#### CONITNENTS SECTION
+-This section as it indicates, provides some basic information of what to expect in each continent: the population, what it’s mostly famous for and the language at the common destinations.
 
-`http_server`
+#### CONTINENTS BACKGROUND IMAGE
+-The background image is a globe map which is appropriate for the information above in the fore.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#### FOOTER
+-The footer is placed at the bottom of all three (3) pages and has links to most of the popular social media channels including Facebook, Instagram, Youtube, X (Twitter) and Threads.
+-The social media links allow interested ones to follow us at a distance and keep up with latest information on travels and other information related to our blog.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### GALLERY PAGE:
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+*The Gallery Page has the same Navigation, Header and Footer as the Home Page.
 
-To log into the Heroku toolbelt CLI:
+#### INFORMATION
+-The paragraph at the top of the gallery page has information on what I enjoy doing in my travels and some of the features that are key for me like water based activities and food.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### GALLERY IMAGES
+-The gallery contains images I have taken on my journeys and it reveals a bit about what I find appealing.
+-The vast range of images shows too the varying activities there are to engage in which is one of the things I love most about travel and is something that will appeal to the user.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### DISCOVER MORE PAGE:
 
----
+*The Discover More Page has the same Navigation, Header and Footer as the Home Page.
 
-Happy coding!
+#### IMAGE
+-The background image again highlights a range in choice of destination/ activity. It was chosen for what it portrays and the colors provide a change in mood from the home page which promotes imagination and inspiration.
+
+### FORM
+
+#### DISCOVER MORE INFORMATION
+-The form paragraph encourages the user to sign up to become a part of our tribe of followers and highlights that they will receive information from us of highlights and newsworthy information on all things travel.
+-It also points out that by signing up they will automatically be entered into our monthly draw where any one of our lucky subscribers stands a chance to win some amazing discounts on flights, meals or accommodation.
+-The form has required input fields to capture the users first name, last name, and email address.
+-This section requires the user to choose whether they would like to discover more on flights, accommodation or recommendations and tips. This is a part of the sign up process and the user will receive this information in a welcome email once they have subscribed.
+-The Discover More! Submit button requires the user to click on it to submit their information successfully thereby signing up with us.
