@@ -62,7 +62,80 @@
       </nav>
     </header>
     <main>
-      Welcome to the landing page for Vairgo Travel. This is place holder text.
+      <section id="discovermore">
+        <form
+          id="discovermore-form"
+          action="https://formdump.codeinstitute.net"
+          method="POST"
+        >
+          <h2>
+            <i class="fa-solid fa-suitcase-rolling"></i>Discover More with me!
+          </h2>
+          <label for="first_name">First Name</label>
+          <input
+            type="text"
+            name="first_name"
+            id="first_name"
+            class="text-input"
+            required
+          />
+          <br />
+          <label for="last_name">Last Name</label>
+          <input
+            type="text"
+            name="last_name"
+            id="last_name"
+            class="text-input"
+            required
+          />
+          <br />
+          <label for="email_address">Email Address</label>
+          <input
+            type="email"
+            name="email_address"
+            id="email_address"
+            class="text-input"
+            required
+          />
+          <br />
+          <div class="radio_buttons">
+            <div>
+              <label for="flights">Flights</label>
+              <input
+                type="radio"
+                name="more_information"
+                id="flghts"
+                value="flghts"
+                required
+                checked
+              />
+            </div>
+            <div>
+              <label for="accommodation">Accommodation</label>
+              <input
+                type="radio"
+                name="more_information"
+                id="accmmdtn"
+                value="accmmdtn"
+                required
+              />
+            </div>
+            <div>
+              <label for="recommendations">Recommendations</label>
+              <input
+                type="radio"
+                name="more_information"
+                id="rcmmndtns"
+                value="rcmmndtns"
+                required
+              />
+            </div>
+          </div>
+          <button type="submit" class="discovermore-button">
+            Discover More!
+          </button>
+        </form>
+      </section>
     </main>
     <footer>
       <ul id="social-networks">
