@@ -18,7 +18,9 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     color: #252525;
@@ -48,14 +50,13 @@ h1 {
     color: #252525;
 }
 
-
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -120,7 +121,8 @@ main {
     padding-bottom: 40px;
 }
 
-#cover-text > h3, #cover-text > h4 {
+#cover-text>h3,
+#cover-text>h4 {
     color: #000000;
 }
 
@@ -133,8 +135,8 @@ main {
 }
 
 #info {
-background-color: rgba(146, 91, 45, 0.238);
-font-size: 100%;
+    background-color: rgba(146, 91, 45, 0.238);
+    font-size: 100%;
 }
 
 #flights-image {
@@ -189,21 +191,21 @@ font-size: 100%;
     align-items: center;
 }
 
-#flights > p {
+#flights>p {
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: center;
 }
 
-#accommodation > p {
+#accommodation>p {
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: center;
 }
 
-#recommendations > p {
+#recommendations>p {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -218,7 +220,7 @@ font-size: 100%;
     flex-wrap: wrap;
 }
 
-#sevencontinents div{
+#sevencontinents div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
     /* padding: 15px; */
@@ -226,13 +228,15 @@ font-size: 100%;
     /* flex-basis: 200px; */
     /* flex-grow: 1; */
 }
+
 #continents h3 {
     color: #fafafa;
     /* padding: 15px; */
     /* text-align: center; */
     /*flex-basis: 200px; */
-        /* flex-grow: 1; */
+    /* flex-grow: 1; */
 }
+
 #continents h2 {
     color: #fafafa;
     padding: 15px;
@@ -255,9 +259,11 @@ font-size: 100%;
     text-align: center;
     justify-content: center;
     color: #252525;
-    background-color: rgba(146, 91, 45, 0.238) ;
+    background-color: rgba(146, 91, 45, 0.238);
     padding: 20px;
 }
+
+/* Discover More page */
 
 #discovermore {
     background-image: url("../images/signup-image.webp");
@@ -284,14 +290,15 @@ font-size: 100%;
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width:576px) {
-#photos {
-    column-count: 2;
-    column-gap: 0;
-}
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width:768px) {
+
     /* Header */
     nav {
         display: block;
@@ -305,7 +312,7 @@ font-size: 100%;
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -336,36 +343,33 @@ font-size: 100%;
     }
 
     #flights>p {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 75%;
-    align-items: left;
-    left: 1rem;
-    font-size: 139%;
+        display: flex;
+        flex-direction: row-reverse;
+        width: 75%;
+        left: 1rem;
+        font-size: 139%;
     }
 
     #accommodation>p {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 75%;
-    align-items: left;
-    left: 1rem;
-    font-size: 130%;
+        display: flex;
+        flex-direction: row-reverse;
+        width: 75%;
+        left: 1rem;
+        font-size: 130%;
     }
 
     #recommendations>p {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 75%;
-    align-items: left;
-    left: 1rem;
-    font-size: 130%;
+        display: flex;
+        flex-direction: row-reverse;
+        width: 75%;
+        left: 1rem;
+        font-size: 130%;
     }
 
     #photos {
         column-count: 3;
     }
-} 
+}
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width:792px) {
@@ -378,90 +382,90 @@ font-size: 100%;
         font-size: 200%;
     }
 
-        #flights {
-            display: flex;
-            flex-direction: row;
-            width: 90%;
-            justify-content: space-around;
-            padding: 50px;
-        }
-    
-        #flights>h3 {
-            font-size: 150%;
-        }
-    
-        #flights>p {
-            display: flex;
-            flex-direction: column;
-            width: 30%;
-            text-align: left;
-            font-size: 130%;
-        }
-
-        #flights-image {
-            height: 20vw;
-            width: 20vw;
-            margin-bottom: 70px;
-            max-width: 500px;
-            max-height: 500px;
-        }
-
-                #accommodation {
-                    display: flex;
-                    flex-direction: row-reverse;
-                    width: 100%;
-                    justify-content: space-around;
-                }
-        
-                #accommodation>h3 {
-                    font-size: 150%;
-                }
-        
-                #accommodation>p {
-                    display: flex;
-                    flex-direction: column;
-                    width: 30%;
-                    text-align: left;
-                    font-size: 130%;
-                }
-
-                #accommodation-image {
-                height: 20vw;
-                width: 20vw;
-                margin-bottom: 70px;
-                max-width: 500px;
-                max-height: 500px;
-                }
-
-    #recommendations {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    justify-content: space-around;
+    #flights {
+        display: flex;
+        flex-direction: row;
+        width: 90%;
+        justify-content: space-around;
+        padding: 50px;
     }
 
-    #recommendations> h3 {
+    #flights>h3 {
         font-size: 150%;
     }
 
-    #recommendations> p {
-    display: flex;
-    flex-direction: column;
-    width: 30%;
-    text-align: left;
-    font-size: 130%;
+    #flights>p {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        text-align: left;
+        font-size: 130%;
     }
 
-        #recommendations-image {
-            height: 20vw;
-            width: 20vw;
-            margin-bottom: 70px;
-            max-width: 500px;
-            max-height: 500px;
-        }
+    #flights-image {
+        height: 20vw;
+        width: 20vw;
+        margin-bottom: 70px;
+        max-width: 500px;
+        max-height: 500px;
+    }
 
-        #photos {
-            column-count: 4;
-        }
+    #accommodation {
+        display: flex;
+        flex-direction: row-reverse;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    #accommodation>h3 {
+        font-size: 150%;
+    }
+
+    #accommodation>p {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        text-align: left;
+        font-size: 130%;
+    }
+
+    #accommodation-image {
+        height: 20vw;
+        width: 20vw;
+        margin-bottom: 70px;
+        max-width: 500px;
+        max-height: 500px;
+    }
+
+    #recommendations {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    #recommendations>h3 {
+        font-size: 150%;
+    }
+
+    #recommendations>p {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        text-align: left;
+        font-size: 130%;
+    }
+
+    #recommendations-image {
+        height: 20vw;
+        width: 20vw;
+        margin-bottom: 70px;
+        max-width: 500px;
+        max-height: 500px;
+    }
+
+    #photos {
+        column-count: 4;
+    }
 
 }
