@@ -287,7 +287,10 @@ main {
     color: #ffffff;
 }
 
-
+#discovermore > p {
+    padding: 15px;
+    
+}
 
 /* Footer */
 #social-networks {
