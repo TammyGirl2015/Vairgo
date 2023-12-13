@@ -141,6 +141,7 @@ main {
 #info {
     background-color: rgba(146, 91, 45, 0.238);
     font-size: 100%;
+    padding: 15px;
 }
 
 #flights-image {
@@ -227,10 +228,10 @@ main {
 #sevencontinents div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
-    /* padding: 15px; */
-    /* text-align: center; */
-    /* flex-basis: 200px; */
-    /* flex-grow: 1; */
+    padding: 15px;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
 }
 
 #continents h3 {
@@ -287,9 +288,9 @@ main {
     color: #ffffff;
 }
 
-#discovermore > p {
+#discovermore>p {
     padding: 15px;
-    
+
 }
 
 /* Footer */
