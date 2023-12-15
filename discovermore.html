@@ -50,6 +50,7 @@
         <!--Logo-->
         <h1 id="logo">Vairgo Travel</h1>
       </a>
+      <!--nav bar toggle-->
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"
         ><i class="fa-solid fa-bars"></i
@@ -63,7 +64,7 @@
       </nav>
     </header>
     <main>
-        <!--Discover more form-->
+      <!--Discover more form-->
       <section id="discovermore">
         <form
           id="discovermore-form"
@@ -73,51 +74,45 @@
           <h2>
             <i class="fa-solid fa-suitcase-rolling"></i>Discover More with me!
           </h2>
-          <br />
-          <p>
+          <p class="breaks">
             Sign up with us to receive monthly news on my travels and stand a
             chance to win some amazing freebies like a discounted stay or a bump
             up to business class on a flight all by simply signing up with us.
+            Simply input your details below and become a part of our tribe.
           </p>
-          <br />
-          <!--Form labels and inout fields-->
-          <label for="first_name">First Name</label>
+          <!--Form labels and input fields-->
+          <label for="first_name" class="breaks">First Name:</label>
           <input
             type="text"
             name="first_name"
             id="first_name"
-            class="text-input"
+            class="text-input breaks"
             required
           />
-          <br />
-          <label for="last_name">Last Name</label>
+          <label for="last_name" class="breaks">Last Name:</label>
           <input
             type="text"
             name="last_name"
             id="last_name"
-            class="text-input"
+            class="text-input breaks"
             required
           />
-          <br />
-          <label for="email_address">Email Address</label>
+          <label for="email_address" class="breaks">E-mail Address:</label>
           <input
             type="email"
             name="email_address"
             id="email_address"
-            class="text-input"
+            class="text-input breaks"
             required
           />
-          <br />
-          <br />
-          <!--Discover more sign up section adn radio buttons-->
-          <p>
+          <!--Discover more sign up section and radio buttons-->
+          <p class="breaks">
             Click on one of the options below to receive an email with details
             on either flights, accomodation or recommendations for whichever
             country you want to discover next.
           </p>
-          <br />
           <div class="radio_buttons">
-            <div>
+            <div class="breaks">
               <label for="flights-info">Flights</label>
               <input
                 type="radio"
@@ -128,7 +123,7 @@
                 checked
               />
             </div>
-            <div>
+            <div class="breaks">
               <label for="accommodation-info">Accommodation</label>
               <input
                 type="radio"
@@ -138,7 +133,7 @@
                 required
               />
             </div>
-            <div>
+            <div class="breaks">
               <label for="recommendations-info">Recommendations</label>
               <input
                 type="radio"
@@ -150,7 +145,7 @@
             </div>
           </div>
           <!--Submit-->
-          <button type="submit" class="discovermore-button">
+          <button type="submit" class="discovermore-button breaks">
             Discover More!
           </button>
         </form>

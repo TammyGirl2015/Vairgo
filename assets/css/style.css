@@ -15,13 +15,13 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: 'Lobster Two, sans-serif';
+    font-family: 'Lobster Two', sans-serif;
 }
 
 h1,
 h2,
 h3 {
-    font-family: 'Lobster Two, sans-serif';
+    font-family: 'Lobster Two', sans-serif;
     letter-spacing: 2px;
     color: #252525;
 }
@@ -41,11 +41,11 @@ header {
 
 header a {
     text-decoration: none;
-    color: 'Lobster Two, sans-serif';
+    color: 'Lobster Two', sans-serif;
 }
 
 h1 {
-    font-family: 'Lobster Two, sans-serif';
+    font-family: 'Lobster Two', sans-serif;
     letter-spacing: 2px;
     color: #252525;
 }
@@ -201,35 +201,30 @@ main {
 
 /* Home page paragraphs */
 #flights>p {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-    font-family: 'Lobster Two, sans-serif';
+    text-align: center;
+    justify-content: center;
+    font-family: 'Lobster Two';
+    padding: 15px;
+    width: 50%;
+    font-size: 130%;
 }
 
 #accommodation>p {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-    font-family: 'Lobster Two, sans-serif';
+    text-align: center;
+    justify-content: center;
+    font-family: 'Lobster Two';
+    padding: 10px;
+    width: 45%;
+    font-size: 130%;
 }
 
 #recommendations>p {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-    font-family: 'Lato, sans-serif'
-}
-
-.far {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-    font-family: 'Lobster-two, sans-serif'
+    text-align: center;
+    justify-content: center;
+    font-family: 'Lobster Two';
+    padding: 10px;
+    width: 45%;
+    font-size: 130%;
 }
 
 /* Continents Section */
@@ -275,6 +270,7 @@ main {
     line-height: 0;
 }
 
+/* Gallery paragraph */
 #gallery-paragraph {
     text-align: center;
     justify-content: center;
@@ -306,8 +302,14 @@ main {
 
 /* Discover More paragraph */
 #discovermore>p {
-    padding: 15px;
+    padding: 25px;
+    text-align: center;
+}
 
+.breaks {
+    margin: 1rem;
+    display: flex;
+    column-count: 1;
 }
 
 /* Footer */
