@@ -125,6 +125,7 @@ main {
     padding-bottom: 40px;
 }
 
+/*cover text */
 #cover-text>h3,
 #cover-text>h4 {
     color: #000000;
@@ -144,6 +145,7 @@ main {
     padding: 15px;
 }
 
+/*Home page images for flights, accommodation and recommendations */
 #flights-image {
     background: url(../images/pexels-photo-2990971.jpeg) no-repeat top center/ cover;
     display: flex;
@@ -178,6 +180,7 @@ main {
     justify-content: center;
 }
 
+/* Home page image styling */
 #flights {
     display: flex;
     flex-direction: column;
@@ -196,6 +199,7 @@ main {
     align-items: center;
 }
 
+/* Home page paragraphs */
 #flights>p {
     display: flex;
     flex-direction: column;
