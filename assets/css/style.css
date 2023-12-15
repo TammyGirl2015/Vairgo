@@ -41,7 +41,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: 'Lobster Two', sans-serif;
+    font-family: 'Lobster Two', sans-serif;
 }
 
 h1 {
@@ -328,7 +328,7 @@ main {
 }
 
 .discovermore-button {
-    font-family: 'Lato, sans-serif'
+    font-family: 'Lobster Two', sans-serif;
 }
 
 /* Media query: large or landscape phones (576px and up) */
