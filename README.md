@@ -211,6 +211,13 @@ Test if Discover More page form submit (Discover More!) button POSTS to correct 
 
 ### Unfixed Bugs
 
+* 1 warning in wave regarding a repititiive link.
+![Wave warning](readme-images/wave-summary-screenshot.jpg)
+
+* Some info indicated in html and css code regarding trailing slashes on void elements to be corrected at a later date.
+
+![HTML-info-message](readme-images/html-info.jpg)
+
 ### Version Control
 
 The site was created using the Codeanywhere code editor and pushed to github to the remote repository ‘Vairgo’.
