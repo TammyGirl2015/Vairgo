@@ -3,7 +3,9 @@
 Vairgo Travel is a travel blog that highlights the travels of a young woman, who mostly travels solo. It is a website designed to pique the interest of anyone with a desire to explore, discover and make memories! This site serves to immerse the audience in the experience, so they are excited about making such memories themselves.
 What makes this website stand out is the extra information that is provided: eateries, hidden gems and even hook-ups with local tour guides, all to help the user feel confident about travelling, even solo, to a foreign destination.
 
+
 ## FEATURES
+
 
 ### SITE WIDE
 * Navigation Menu
@@ -11,6 +13,7 @@ What makes this website stand out is the extra information that is provided: eat
      * This allows users to navigate between the pages easily within the site on any device.
      * The logo also allows users to return to the Home page by clicking on it from anywhere in the site.
  
+
 * Footer
      * This has links ot social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader by the use of aria-labels.
 
@@ -136,6 +139,8 @@ Wave Accessibility (https://wave.webaim.org/) tool was used for final testing of
 
 ### Lighthouse Testing
 
+
+
 ### Functional Testing 
 
 - Nav links
@@ -152,20 +157,70 @@ Test if the Discover More page form last name field requires input              
 Test if the Discover More page form email address field requires email address         |Input email address in field and click submit (Discover More!) button|Page does not submit if an email address is not input and other input fields are not completed. If email address and all other fields are completed correctly, the page loads to code institute formdump congratulations page and displays input displaying provided input|Pass     
 Test if Discover More page form submit (Discover More!) button POSTS to correct address|Input required fields and click on submit (Discover More!) button    |Opens code institute formdump congratulations page and displays input                                                                                                                                                                                                     |Pass 
 
+### Validator Testing
+- HTML
+  
+- CSS
+
+
+### Unfixed Bugs
+
+
+### Version Control
+
+The site was created using the Codeanywhere code editor and pushed to github to the remote repository ‘Vairgo’.
+
+The following git commands were used throughout development to push code to the remote repo:
+
+```git add . <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+
+```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+
+```git push``` - This command was used to push all committed code to the remote repository on github.
+
+### Deployment to Github Pages
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the menu on left select 'Pages'
+  - From the source section drop-down menu, select the Branch: main
+  - Click 'Save'
+  - A live link will be displayed in a green banner when published successfully. 
+
+The live link can be found here -  
+
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
+
+The project will now have been cloned on your local machine for use.
+
+##CREDITS
+
+### Page Name
+
+* The page name Vairgo Travel is credited to my good friend Calvin as homeage to him. He gave me permission to use the name and wanted me to include the link to his actual website: https://www.vairgo.co.za
+
+### Format
+
+* The format of the website is credited to the Love Running walkthrough project from Code Institute module 1.
+* The READme is credited to the sample READme provided in the sample Portfolio Project 1 and another READme sample received from my amazing mentor Daisy McGirr.
+
+### Content 
+
+* Content is credited to myself for text input with some inspiration from looking at https://heyciara.com 
+
+### Media
+
+* All images used were taken from https://pexels.com
 
 
 
 
 
-
-
-
-
-
-#### DISCOVER MORE INFORMATION
-
--The form paragraph encourages the user to sign up to become a part of our tribe of followers and highlights that they will receive information from us of highlights and newsworthy information on all things travel.
--It also points out that by signing up they will automatically be entered into our monthly draw where any one of our lucky subscribers stands a chance to win some amazing discounts on flights, meals or accommodation.
--The form has required input fields to capture the users first name, last name, and email address.
--This section requires the user to choose whether they would like to discover more on flights, accommodation or recommendations and tips. This is a part of the sign up process and the user will receive this information in a welcome email once they have subscribed.
--The Discover More! Submit button requires the user to click on it to submit their information successfully thereby signing up with us.
