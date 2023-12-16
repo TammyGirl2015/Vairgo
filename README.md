@@ -3,7 +3,7 @@
 Vairgo Travel is a travel blog that highlights the travels of a young woman, who mostly travels solo. It is a website designed to pique the interest of anyone with a desire to explore, discover and make memories! This site serves to immerse the audience in the experience, so they are excited about making such memories themselves.
 What makes this website stand out is the extra information that is provided: eateries, hidden gems and even hook-ups with local tour guides, all to help the user feel confident about travelling, even solo, to a foreign destination.
 
-![mockup](docs/readme-images/am-i-responsive-screenshot.jpg)
+![mockup](readme-images/am-i-responsive-screenshot.jpg)
 
 ## FEATURES
 
@@ -14,18 +14,18 @@ What makes this website stand out is the extra information that is provided: eat
     * This allows users to navigate between the pages easily within the site on any device.
     * The logo also allows users to return to the Home page by clicking on it from anywhere in the site.
 
-![Navigation menu](docs/readme-images/nav-bar-screenshot.jpg.jpg)
+![Navigation menu](readme-images/nav-bar-screenshot.jpg)
 
 * Footer
   * This has links ot social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader by the use of aria-labels.
 
-![Footer menu](docs/readme-images/footer-screenshot.jpgjpg)
+![Footer menu](readme-images/footer-screenshot.jpg)
 
 * Favicon
   * The favicon will display as an image on the left in the page window tab next to the page name. The favicon appears when the user is on any page.
   * The favicon makes it easy for users to identify and open the website if they have many tabs open on their screen.
 
-![Favicon](docs/readme-images/favicon-screenshot.jpg)
+![Favicon](readme-images/favicon-screenshot.jpg)
 
 * 404 Page
   * A 404 page will be implemented and will display if a user navigates to a broken link.
