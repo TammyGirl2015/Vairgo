@@ -165,6 +165,8 @@ The website was also opened on the following devices and no responsive issues we
 
 Wave Accessibility (<https://wave.webaim.org/>) tool was used for final testing of the deployed website to check for and aid accessibility testing.
 
+![Wave-accessibility-testing](readme-images/wave-summary-screenshot.jpg)
+
 * All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
 * Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
 * Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
@@ -175,13 +177,17 @@ Wave Accessibility (<https://wave.webaim.org/>) tool was used for final testing 
 
 ### Lighthouse Testing
 
+![Lighthouse-Home-Test](readme-images/lighthouse-home-test-screenshot.jpg)
+![Lighthouse-Home-Test](readme-images/lighthouse-gallery-test-screenshot.jpg)
+![Lighthouse-Home-Test](readme-images/lighthouse-discovermore-test-screenshot.jpg)
+
 ### Functional Testing
 
 * Nav links
 * Footer links
 *
 
-Description                                                                            |Action                                                               |Expected Result                                                                                                                                                                                                                                                           |Pass/Fail
+Description                                                                            |Action                                                             |Expected Result                                                                                                                                                                                                                                                           |Pass/Fail
 ---------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
 Test Logo goes to correct page                                                         |Click on logo                                                        |Logo-> Home (index.html)                                                                                                                                                                                                                                                  |Pass
 Test nav links go to correct pages                                                     |Click each link in the nav bar from each page                        |Home-> index.html; Gallery-> gallery.html; Discover More-> discovermore.html                                                                                                                                                                                              |Pass
@@ -194,8 +200,14 @@ Test if Discover More page form submit (Discover More!) button POSTS to correct 
 ### Validator Testing
 
 * HTML
+
+![index.html-validation-test](readme-images/home-validator-screenshot.jpg)
+![gallery.html-validation-test](readme-images/gallery-validator-screenshot.jpg)
+![discovermore.html-validation-test](readme-images/discovermore-validator-screenshot.jpg)
   
 * CSS
+
+![css-validation-test](readme-images/css-validator-screenshot.jpg)
 
 ### Unfixed Bugs
 
