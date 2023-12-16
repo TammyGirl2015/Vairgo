@@ -95,7 +95,7 @@ What makes this website stand out is the extra information that is provided: eat
   * The option for flights, accommodation or reocmmednations is also clearly distinguishable and makes for a user friendly experience.
 
 ![Discover-more-signup-form](readme-images/discover-more-signup-form-screenshot.jpg)
-![Discover-more-signup-form](readme-images/discover-more-signup-form-two-screenshot.jpg.jpg)
+![Discover-more-signup-form](readme-images/discover-more-signup-form-two-screenshot.jpg)
 
 * Discover more (submit) button
   * The discover more button is clearly marked and large enough on all screen sizes to be clicked on ot tapped on in mobile format.
