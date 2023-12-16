@@ -239,7 +239,7 @@ The following git commands were used throughout development to push code to the 
   * Click 'Save'
   * A live link will be displayed in a green banner when published successfully.
 
-The live link can be found here -  
+The live link can be found here -  [Vairgo Travel Blog](<https://tammygirl2015.github.io/Vairgo>)
 
 ### Clone the Repository Code Locally
 
@@ -257,12 +257,12 @@ The project will now have been cloned on your local machine for use.
 
 ### Page Name
 
-* The page name Vairgo Travel is credited to my good friend Calvin as homeage to him. He gave me permission to use the name and wanted me to include the link to his actual website: <https://www.vairgo.co.za>
+* The page name Vairgo Travel is credited to my good friend Calvin as homeage to him. He gave me permission to use the name and wanted me to include the link to his actual website: [Vairgo-Travel](<https://www.vairgo.co.za>)
 
 ### Format
 
 * The format of the website is credited to the Love Running walkthrough project from Code Institute module 1.
-* The READme is credited to the sample READme provided in the sample Portfolio Project 1 and another READme sample received from my amazing mentor Daisy McGirr.
+* The READme is credited to the sample READme provided in the sample Portfolio Project 1 from Code Institute and another READme sample received from my amazing mentor Daisy McGirr.
 
 ### Content
 
