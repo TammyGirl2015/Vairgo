@@ -53,6 +53,7 @@
       <!--nav bar toggle-->
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"
+        ><span class="sr-only:not(:focus):not(:active)">nav-toggle</span
         ><i class="fa-solid fa-bars"></i
       ></label>
       <nav>
@@ -145,7 +146,11 @@
             </div>
           </div>
           <!--Submit-->
-          <button type="submit" class="discovermore-button breaks">
+          <button
+            type="submit"
+            aria-label="Discover More!: click th button to sign up "
+            class="discovermore-button breaks"
+          >
             Discover More!
           </button>
         </form>
