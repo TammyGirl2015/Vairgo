@@ -87,13 +87,20 @@ What makes this website stand out is the extra information that is provided: eat
 * Discover more image
   * The image is fitting as it gives a sense of gentle nudging towards the user signing up with Vairgo Travel.
 
+![Discover-more-background-image](readme-images/discover-more-image-screenshot.jpg)
+
 * Discover more (Sign up) form
   * The sign up form tells the user in a sentence what they benefit shoudl they wish to sign up
   * The forms is easy to read and has ample space around it to clearly identify what information is required.
   * The option for flights, accommodation or reocmmednations is also clearly distinguishable and makes for a user friendly experience.
 
+![Discover-more-signup-form](readme-images/discover-more-signup-form-screenshot.jpg)
+![Discover-more-signup-form](readme-images/discover-more-signup-form-two-screenshot.jpg.jpg)
+
 * Discover more (submit) button
   * The discover more button is clearly marked and large enough on all screen sizes to be clicked on ot tapped on in mobile format.
+
+![Discover-more-signup-form](readme-images/discover-more-submit-button-screenshot.jpg)
 
 ### EXISTING FEATURES
 
