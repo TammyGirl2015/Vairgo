@@ -82,6 +82,10 @@ nav {
 }
 
 #nav-toggle {
+    display: none;
+}
+
+.sr-only:not(:focus):not(:active) {
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     height: 1px;
@@ -91,16 +95,9 @@ nav {
     width: 1px;
 }
 
-/* #mob-nav-toggle {
+span {
     display: none;
-    clip: rect(0 0 0 0);
-    clip-path: inset(50%);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    white-space: nowrap;
-    width: 1px;
-} */
+}
 
 .nav-toggle-label {
     font-size: 2rem;
