@@ -30,7 +30,7 @@ What makes this website stand out is the extra information that is provided: eat
 * 404 Page
   * A 404 page will be implemented and will display if a user navigates to a broken link.
 
-![404-error](docs/readme-images/404-error-screenshot.jpg)
+![404-error](readme-images/404-error-screenshot.jpg)
 
 ### LANDING PAGE
 
@@ -38,18 +38,28 @@ What makes this website stand out is the extra information that is provided: eat
   * The landing page is an image of water an a sunset which Tammy finds calming.
   * This shows users a bit about Tammy's personality and what sort of travel Tammy enjoys.
 
+![Landing page image](readme-images/landing-page-one-screenshot.jpg)
+
 * Cover text
   * The cover text is a brief introduction to Tammy and highlights some places she has travelled giving the user insight on what the page is about at a glance.
 
 * Information paragraph on Flights, Accommodation and Recommendations
   * These paragraphs provide information on their name subject. They are brief and hint at what the user can expect when signing up thus prompting them to complete the sign up form.
 
+![Flights-paragraph](readme-images/landing-page-two-screenshot.jpg)
+![Accommodation-paragraph](readme-images/landing-page-three-screenshot.jpg)
+![Recommendations-paragraph](readme-images/landing-page-four-screenshot.jpg)
+
 * Continents section
   * This section provides some brief information on each continent. It highlights some facts about each of them.
   * It also allows the user to determine what destination suits them which engages them early on in the website.
 
+![Continents-info](readme-images/landing-page-five-screenshot.jpg)
+
 * Continents background image
   * The image of the globe is fitting as it depicts world travel which the website promotes.
+
+![continents-background-image](readme-images/landing-page-six-screenshot.jpg)
 
 ### GALLERY PAGE
 
