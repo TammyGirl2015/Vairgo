@@ -27,44 +27,44 @@ What makes this website stand out is the extra information that is provided: eat
 ### LANDING PAGE
 
 * Landing page image
-      * The landing page is an image of water an a sunset which Tammy finds calming.
-      * This shows users a bit about Tammy's personality and what sort of travel Tammy enjoys.
+     * The landing page is an image of water an a sunset which Tammy finds calming.
+     * This shows users a bit about Tammy's personality and what sort of travel Tammy enjoys.
 
 * Cover text
-      * The cover text is a brief introduction to Tammy and highlights some places she has travelled giving the user insight on what the page is about at a glance.
+     * The cover text is a brief introduction to Tammy and highlights some places she has travelled giving the user insight on what the page is about at a glance.
 
 * Information paragraph on Flights, Accommodation and Recommendations
-      * These paragraphs provide information on their name subject. They are brief and hint at what the user can expect when signing up thus prompting them to complete the sign up form.
+     * These paragraphs provide information on their name subject. They are brief and hint at what the user can expect when signing up thus prompting them to complete the sign up form.
 
 * Continents section
-      * This section provides some brief information on each continent. It highlights some facts about each of them.
-      * It also allows the user to determine what destination suits them which engages them early on in the website.
+     * This section provides some brief information on each continent. It highlights some facts about each of them.
+     * It also allows the user to determine what destination suits them which engages them early on in the website.
 
 * Continents background image
-      * The image of the globe is fitting as it depicts world travel which the website promotes.
+     * The image of the globe is fitting as it depicts world travel which the website promotes.
 
 ### GALLERY PAGE
 
 * Gallery paragraph
-      * The paragraph briefly depicts some of the images ot be seen in the gallery, highlighting the areas of some of the destinations.
-      * This allows the user to view the images with the text in mind and engage with the website and ultimately want to discover more!
+     * The paragraph briefly depicts some of the images ot be seen in the gallery, highlighting the areas of some of the destinations.
+     * This allows the user to view the images with the text in mind and engage with the website and ultimately want to discover more!
 
 * Gallery images
-      * The gallery shows Tammy's many travels and again highlights a bit about Tammy's personality allowing to relate to Tammy more.
-      * The gallery on the other hand also provides inspiration to the user as it let's the users see what they can enjoy should they choose to engage more. 
+     * The gallery shows Tammy's many travels and again highlights a bit about Tammy's personality allowing to relate to Tammy more.
+     * The gallery on the other hand also provides inspiration to the user as it let's the users see what they can enjoy should they choose to engage more. 
       
 ### DISCOVER MORE PAGE
 
 * Discover more image
-      * The image is fitting as it gives a sense of gentle nudging towards the user signing up with Vairgo Travel.
+     * The image is fitting as it gives a sense of gentle nudging towards the user signing up with Vairgo Travel.
 
 * Discover more (Sign up) form
-      * The sign up form tells the user in a sentence what they benefit shoudl they wish to sign up
-      * The forms is easy to read and has ample space around it to clearly identify what information is required.
-      * The option for flights, accommodation or reocmmednations is also clearly distinguishable and makes for a user friendly experience.
+     * The sign up form tells the user in a sentence what they benefit shoudl they wish to sign up
+     * The forms is easy to read and has ample space around it to clearly identify what information is required.
+     * The option for flights, accommodation or reocmmednations is also clearly distinguishable and makes for a user friendly experience.
 
 * Discover more (submit) button
-      * The discover more button is clearly marked and large enough on all screen sizes to be clicked on ot tapped on in mobile format.
+     * The discover more button is clearly marked and large enough on all screen sizes to be clicked on ot tapped on in mobile format.
 
 ### EXISTING FEATURES
 
@@ -81,19 +81,19 @@ What makes this website stand out is the extra information that is provided: eat
   ## TECHNOLOGIES
 
 * HTML
-  * HTML was the amin language used to create the structure of the website.
+     * HTML was the main language used to create the structure of the website.
 * CSS
-  * The website was styled using custom CSS.
+     * The website was styled using custom CSS.
 * Codeanywhere
-  * Codeanywhere IDE was used to develop the website
+     * Codeanywhere IDE was used to develop the website
 * GitHub
-  * The source code is hosted on GitHub and the site was deployed using Git Pages
+     * The source code is hosted on GitHub and the site was deployed using Git Pages
 * Git
-  * Git was used to commit and push code during the development of the website
+     * Git was used to commit and push code during the development of the website
 * Font Awesome
-  * Icons from https://fontawesome.com/ were used for the social media links in the footer section and the favicon.
+     * Icons from https://fontawesome.com/ were used for the social media links in the footer section and the favicon.
 * Favicon
-  * The favicon was created at https://favicon.io/favicon-converter/
+     * The favicon was created at https://favicon.io/favicon-converter/
   
 ## TESTING
 
