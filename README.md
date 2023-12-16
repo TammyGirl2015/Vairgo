@@ -43,6 +43,8 @@ What makes this website stand out is the extra information that is provided: eat
 * Cover text
   * The cover text is a brief introduction to Tammy and highlights some places she has travelled giving the user insight on what the page is about at a glance.
 
+![Cover-text](readme-images/cover-text-screenshot.jpg)
+
 * Information paragraph on Flights, Accommodation and Recommendations
   * These paragraphs provide information on their name subject. They are brief and hint at what the user can expect when signing up thus prompting them to complete the sign up form.
 
@@ -67,9 +69,18 @@ What makes this website stand out is the extra information that is provided: eat
   * The paragraph briefly depicts some of the images ot be seen in the gallery, highlighting the areas of some of the destinations.
   * This allows the user to view the images with the text in mind and engage with the website and ultimately want to discover more!
 
+![Gallery-paragraph](readme-images/gallery-page-paragraph-screenshot.jpg)
+
 * Gallery images
   * The gallery shows Tammy's many travels and again highlights a bit about Tammy's personality allowing to relate to Tammy more.
   * The gallery on the other hand also provides inspiration to the user as it let's the users see what they can enjoy should they choose to engage more.
+
+![gallery-images](readme-images/gallery-pics-page-one-screenshot.jpg)
+![gallery-images](readme-images/gallery-pics-page-two-screenshot.jpg)
+![gallery-images](readme-images/gallery-pics-page-three-screenshot.jpg)
+![gallery-images](readme-images/gallery-pics-page-four-screenshot.jpg)
+![gallery-images](readme-images/gallery-pics-page-five-screenshot.jpg)
+![gallery-images](readme-images/gallery-pics-page-six-screenshot.jpg)
 
 ### DISCOVER MORE PAGE
 
