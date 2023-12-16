@@ -81,8 +81,7 @@ nav {
     display: block;
 }
 
-#mob-nav-toggle {
-    display: none;
+#nav-toggle {
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     height: 1px;
@@ -91,6 +90,17 @@ nav {
     white-space: nowrap;
     width: 1px;
 }
+
+/* #mob-nav-toggle {
+    display: none;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+} */
 
 .nav-toggle-label {
     font-size: 2rem;
@@ -106,6 +116,10 @@ nav {
     position: absolute;
     white-space: nowrap;
     width: 1px;
+}
+
+#hidey {
+    color: #00000000;
 }
 
 #flights-nav {
