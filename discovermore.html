@@ -51,9 +51,15 @@
         <h1 id="logo">Vairgo Travel</h1>
       </a>
       <!--nav bar toggle-->
-      <input type="checkbox" id="nav-toggle" name="nav-toggle" />
+      <input
+        type="checkbox"
+        id="nav-toggle"
+        name="nav-toggle"
+        aria-labelledby="nav-toggle"
+      />
       <label for="nav-toggle" class="nav-toggle-label"
-        ><span class="sr-only:not(:focus):not(:active)">toggle</span
+        ><span class="sr-only:not(:focus):not(:active)" id="nav-toggle"
+          >toggle</span
         ><i class="fa-solid fa-bars"></i
       ></label>
       <nav>
