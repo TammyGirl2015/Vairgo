@@ -211,7 +211,7 @@ Test if Discover More page form submit (Discover More!) button POSTS to correct 
 
 ### Unfixed Bugs
 
-* 1 warning in wave regarding a repititiive link.
+* 1 alert in wave regarding a repititiive link.
 ![Wave warning](readme-images/wave-summary-screenshot.jpg)
 
 * Some info indicated in html and css code regarding trailing slashes on void elements to be corrected at a later date.
